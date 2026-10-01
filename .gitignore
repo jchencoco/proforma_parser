@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.sqlite
+*.sqlite-*
+.vscode/
+.agents/
+.codex/
+.venv/
+venv/
+/data/Kelleher lab fve tissue/

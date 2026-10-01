@@ -1,0 +1,6 @@
+pandas
+openpyxl
+pyteomics[proforma]
+psims
+requests
+requests_cache
